@@ -1,3 +1,4 @@
 1 - Repositorio Remoto Clonado
 2 - Subir este archivo al Repositorio Remoto
 3 - Editando el Archivo desde el Repositorio Remoto
+4 - Modifico nuevamente desde el Repositorio Remoto antes de hacer el Pull desde el Local.
